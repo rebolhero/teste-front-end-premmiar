@@ -1,0 +1,130 @@
+.itemcart .box-itemcart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+    min-height: 140px;
+    max-width: 800px;
+    border-bottom: 2px solid rgb(224, 222, 222);
+    flex-wrap: wrap;
+}
+
+.itemcart{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.itemcart .img-item{
+    width: 100px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+}
+
+.itemcart .qtd img{
+    width:18px;
+}
+
+.itemcart .box-itemcart .qtd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 70px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.itemcart .box-itemcart .qtd label{
+    color: #404040;
+    font-weight: bold;
+}
+
+.itemcart .box-itemcart .qtd .box-qtd{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    justify-content: space-between;
+}
+
+.itemcart .box-itemcart .qtd .box-qtd select{
+    border: 1px solid #e5e5e5;
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+
+.itemcart .box-itemcart .qtd .box-qtd div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+
+.itemcart .box-itemcart .qtd .box-qtd div:hover{
+    background-color: #e5e5e5;
+}
+
+.itemcart .box-itemcart .desc-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.itemcart .box-itemcart .desc-item div{
+    display: flex;
+    flex-direction: column;
+}
+.itemcart .box-itemcart .desc-item div p{
+    color: #404040;
+}
+
+.itemcart .box-itemcart .desc-item div .cod{
+    color: #b4b1b1;
+    font-size: 13px;
+}
+
+.itemcart .box-itemcart .desc-item .vendedor{
+    color: #b4b1b1;
+    font-size: 15px;
+}
+
+.itemcart .box-itemcart .precos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+}
+
+.itemcart .box-itemcart .precos p{
+    color: #404040;
+    font-weight: bold;
+}
+
+.itemcart .box-itemcart .precos div p{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: lighter;
+}
+
+.itemcart .box-itemcart .precos div p:nth-child(1){
+    color: #b4b1b1;
+
+}
+
+.itemcart .box-itemcart .precos div p:nth-child(2){
+    color: #0083CA;
+    font-weight: bold;
+}

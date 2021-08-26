@@ -1,0 +1,18 @@
+.cart{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.cart .body-cart{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 95%;
+    max-width: 800px;
+}
+
+.body-cart h1{
+    color: #0a6fc7;
+}

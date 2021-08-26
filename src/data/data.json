@@ -1,0 +1,394 @@
+{
+    "lowerPrice":0.0,
+    "higherPrice":100000.0,
+    "totalRowCount":21005,
+    "products":[
+       {
+          "sku":"d9059f0f492f4d71a2b4",
+          "originalId":"2305061-00",
+          "name":"SALMOS -CAPA MARROM 978857860414",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230506100/fd43fcf0212810e9763d2c97c43d6315.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"dbd6272add8d42199134",
+          "originalId":"2305060-00",
+          "name":"ORACAO DA NOITE 978655689198",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230506000/343f7614e7a954123abfe42f1842574f.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"8608e689982e49d58a8e",
+          "originalId":"2305067-00",
+          "name":"UMA CANCAO 978859508647",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230506700/9c53a7b93d3a996c6564b61dc5e2fc8a.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"e73944e3ea20421c980a",
+          "originalId":"2306004-00",
+          "name":"O PROBLEMA DA DOR 978655689220",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230600400/fd47754a2aa3c12a7ddfa1a641f44f4d.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"f22576d3c3ee4dd98cd3",
+          "originalId":"2309079-00",
+          "name":"Livro Damas Rebeldes Brilhante Vol.2 Julia Quinn com Brinde",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230907900/09b9fb58919943eba137f74bf7207869.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"ec36e99f0df64c729964",
+          "originalId":"2311507-00",
+          "name":"Livro - O gato Pete quer dormir ",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/231150700/0f19ac7ffd5c6bcfe889bb7899458924.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"d5eff08bb97c4cdea6e2",
+          "originalId":"2313049-00",
+          "name":"Livro - O nome do vento ? Edição luxo (A Crônica d ",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/231304900/a35a719b6476ecf07e2c54d968633573.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"fdf3a2a12cb142be8f6d",
+          "originalId":"2306031-00",
+          "name":"O GRITO DE EVA 978655689224",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230603100/0025016eb57dbc719733ce87d48947dd.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"3ff38abad4234410a351",
+          "originalId":"2305065-00",
+          "name":"Livro - Meu Plano Perfeito, Tecido, Espiral Duplo, ",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230506500/89b49ddac3c1fd036aaef3d935de198f.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"20a0aa179de542ae8ad1",
+          "originalId":"2309544-00",
+          "name":"EXPANDINDO A VIDA CRISTA 978655689226",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230954400/5c0226ac9c3c2eb04bdad771a087ee59.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":62,
+             "name":"Livros e Revistas",
+             "category":{
+                "id":7,
+                "name":"Lazer e Cultura"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"0e88ecb9ddc04b98af21",
+          "originalId":"2288607-00",
+          "name":"Ar-condicionado Split TCL 18.000 BTUs Frio Elite A1 TAC-18CSA1",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/228860700/4ca818a9bb5d7e5283381b608f346ac1.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":38,
+             "name":"Eletrodomésticos",
+             "category":{
+                "id":5,
+                "name":"Casa e cozinha"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             {
+                "name":"VOLTAGEM",
+                "value":"220 Volts",
+                "type":"VOLTAGEM"
+             }
+          ],
+          "type":1,
+          "servicePath":null
+       },
+       {
+          "sku":"eec7a42aa62d469e9e71",
+          "originalId":"2300305-00",
+          "name":"Frigobar Midea 45L Preto MRC06B1-X ",
+          "imageUrl":"https://a-static.mlcdn.com.br/250x250/title-reference/magazineluiza/230030500/7fc7170bb4c629b02a859add919b1155.jpg",
+          "hasPriceUpdated":false,
+          "availability":{
+             "price":150
+          },
+          "subcategory":{
+             "id":38,
+             "name":"Eletrodomésticos",
+             "category":{
+                "id":5,
+                "name":"Casa e cozinha"
+             }
+          },
+          "brand":{
+             "id":78378,
+             "name":"outros"
+          },
+          "vendor":{
+             "id":62,
+             "name":"Magazine Luiza"
+          },
+          "skuFeatures":[
+             {
+                "name":"VOLTAGEM",
+                "value":"110 Volts",
+                "type":"VOLTAGEM"
+             }
+          ],
+          "type":1,
+          "servicePath":null
+       }
+    ],
+    "vendors":[
+       {
+          "id":62,
+          "name":"Magazine Luiza",
+          "quantity":21005
+       }
+    ]
+ }

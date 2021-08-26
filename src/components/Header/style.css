@@ -1,0 +1,70 @@
+.header{
+    width: 100%;
+    min-width: 350px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0086FF;
+    position: relative;
+    height: 90px;
+}
+
+.header .logo img{
+    height: 50px;
+}
+
+.header .logo {
+    margin-left: 20px;
+}
+
+.header .sacola{
+    position: relative; 
+    width: 90px;
+    height: 90px;
+}
+
+.header .sacola:hover{
+    background-color: #58c223;
+}
+
+.header .sacola img:nth-child(2){
+    opacity: 0;
+}
+
+
+.header .sacola img{
+    width: 40px;
+    position: absolute;
+    right: 25px;
+    top: 20px;
+}
+
+.linha{
+    width: 100%;
+    margin-left: 0;
+    height: 5px;
+    position: absolute;
+    bottom: 0;
+}
+
+@media (max-width: 800px) {
+    .header{
+        height: 50px;
+    }
+
+    .header .sacola img{
+        width: 25px;
+        right: 12px;
+        top: 5px;
+    }
+    .header .sacola{
+        position: relative; 
+        width: 50px;
+        height: 50px;
+    }
+
+    .header .logo img{
+        height: 20px;
+    }
+}
