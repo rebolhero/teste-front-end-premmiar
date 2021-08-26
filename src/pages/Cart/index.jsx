@@ -14,7 +14,7 @@ const Cart = () => {
             <Header />
             <div className="body-cart">
                 <h1>Sacola</h1>
-                <div>
+                <div className="item-cart">
                     {cart.length 
                         ?cart.map((cartItem) => {
                             return <ItemCart item={cartItem} key={cartItem.sku} />

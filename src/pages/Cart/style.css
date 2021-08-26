@@ -13,6 +13,14 @@
     max-width: 800px;
 }
 
+ .item-cart{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+}
+
 .body-cart h1{
     color: #0a6fc7;
 }

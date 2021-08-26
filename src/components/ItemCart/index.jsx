@@ -1,13 +1,17 @@
 import "./style.css";
-import airFryer from "../../images/airfryer.jpg";
 import del from "../../images/delete.png";
 import {useCart} from '../../hooks/Cart';
-import { useCallback} from "react";
+import { useCallback, useMemo} from "react";
+import formatPrice from "../../utils/formatPrice";
 
 
 const ItemCart = ({item})=>{
     const {updateCart,deleteToCart} = useCart();
 
+    
+    const parsedTotal = useMemo(()=>{
+        return  formatPrice(item.availability.price);
+    },[item.availability.price])
 
     const allQuantity = useCallback(() =>{
         let options = [];
@@ -19,7 +23,7 @@ const ItemCart = ({item})=>{
     return (
         <div className="itemcart">
             <div className="box-itemcart">
-                <img className="img-item" src={airFryer} alt="airfryer"/>
+                <img className="img-item" src={item.imageUrl} alt="airfryer"/>
                 <div className="desc-item">
                     <div>
                         <p className="desc">{item.name}</p>
@@ -41,8 +45,7 @@ const ItemCart = ({item})=>{
                 <div className="precos">
                     <p>Preço:</p>
                     <div>
-                        <p>De R$ 759,90 por</p>
-                        <p>R$ 389,00</p>
+                        <p>{parsedTotal}</p>
                     </div>
                 </div>
             </div>
